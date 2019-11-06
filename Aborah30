@@ -1,0 +1,4 @@
+hi, how do you create multiple triangles from the same data with different classes 
+Example in the workcomp data , if i want seperate triangles for GRNAME :Allstate Ins Co Grp, Tower Ins Co Of NY	
+tried triangle['Allstate Ins Co Grp','CumPaidLoss_D'].sum() but it didn't work
+thanks for the super awesome package though
